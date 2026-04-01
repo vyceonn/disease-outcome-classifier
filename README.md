@@ -30,3 +30,9 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Joblib
 
 ## Dataset
 [Pima Indians Diabetes Database](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv)
+
+## Visualizations
+![EDA](eda_visualizations.png)
+![Model Comparison](model_comparison.png)
+![ROC Curve](roc_curve.png)
+![Confusion Matrix](confusion_matrix.png)
